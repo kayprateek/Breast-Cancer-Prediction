@@ -6,6 +6,5 @@ Loss function- Binary cross entropy.
 Optimizer- Adam.
 
 # Modules
-Sequential model from Keras library is used to create the ANN model
-
+Keras.
 Dataset is imported from Scikit-learn library
